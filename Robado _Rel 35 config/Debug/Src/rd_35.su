@@ -1,0 +1,2 @@
+../Src/rd_35.c:14:6:Rd_35_Init	4	static
+../Src/rd_35.c:29:7:Rd_35_ReadTemperature	16	static
